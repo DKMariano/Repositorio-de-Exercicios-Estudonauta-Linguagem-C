@@ -1,5 +1,5 @@
 
-# Exercicios de Linguagem-C do curso Estudonauta 
+# Exercicios de Linguagem C do curso Estudonauta 
 
 ### Descrição
 

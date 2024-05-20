@@ -1,6 +1,5 @@
-# Repositorio-de-Exercicios-Estudonauta-Linguagem-C
 
-# Repositorio-de-Estudonauta-Exercicios-Linguagem-C
+# Estudonauta-Exercicios-Linguagem-C
 
 ### Descrição
 

@@ -4,10 +4,10 @@
 * Instituição de Ensino: Estudonauta                                                                 *
 * Disciplina: Linguagem C                                                                            *
 * Professor: Gustavo Guanabara                                                                       *
-* Aluno: Dimitrius Khouri                                                                            *
+* Aluno: D. K. Mariano                                                                               *
 * Descrição: Crie um programa que solicite informações básicas do usuário (nome, idade e peso) e as  *
 * exiba de volta na tela.                                                                            *
-**************************************************************************************************** */
+*****************************************************************************************************/
 
 
 #include<stdio.h>

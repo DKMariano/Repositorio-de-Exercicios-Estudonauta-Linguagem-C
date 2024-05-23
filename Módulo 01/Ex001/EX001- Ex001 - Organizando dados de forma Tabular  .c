@@ -1,10 +1,10 @@
 /*****************************************************************************************************
 * Data atual: 12/05/2024                                                                             *
-* Desafio: Ex001 - Organizando dados de forma Tabular                                                                                       *
+* Desafio: Ex001 - Organizando dados de forma Tabular                                                *                                                                         *
 * Instituição de Ensino: Estudonauta                                                                 *
 * Disciplina: Linguagem C                                                                            *
 * Professor: Gustavo Guanabara                                                                       *
-* Aluno: Dimitrius Khouri                                                                            *
+* Aluno: D. K. Mariano                                                                               *
 * Descrição: Crie um programa que gere uma lista de alunos com seus respectivos nomes e notas,       *
 * organizados de forma tabular. Cada aluno deve ser representado por uma linha na tabela, na qual    *
 * o nome do aluno deve estar alinhado à esquerda e a nota alinhada à direita.                        *

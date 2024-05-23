@@ -4,7 +4,7 @@
 * Instituição de Ensino: Estudonauta                                                                       *
 * Disciplina: Linguagem C                                                                                  *
 * Professor: Gustavo Guanabara                                                                             *
-* Aluno: Dimitrius Khouri                                                                                  *
+* Aluno: D. K. Mariano                                                                                     *
 * Descrição: Crie um programa que cadastre informações sobre três pessoas (nome, sexo e nota)e,em seguida, *
 * exibir uma lista completa dessas informações.                                                            *
 ***********************************************************************************************************/

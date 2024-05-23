@@ -4,7 +4,7 @@
 * Instituição de Ensino: Estudonauta                                                                                  *
 * Disciplina: Linguagem C                                                                                             *
 * Professor: Gustavo Guanabara                                                                                        *
-* Aluno: Dimitrius Khouri                                                                                             *
+* Aluno: D. K. Mariano                                                                                                *
 * Descrição: Crie um programa que escreva 'Olá, Mundo!' e "Ufa! Já estou "LIVRE" da maldição." na tela.               *                                                                                          *
 **********************************************************************************************************************/
 

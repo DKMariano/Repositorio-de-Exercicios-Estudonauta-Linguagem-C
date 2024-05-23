@@ -4,7 +4,7 @@
 * Instituição de Ensino: Estudonauta                                                                    *
 * Disciplina: Linguagem C                                                                               *
 * Professor: Gustavo Guanabara                                                                          *
-* Aluno: Dimitrius Khouri                                                                               *
+* Aluno: D. K. Mariano                                                                                  *
 * Descrição: Crie um programa que gere uma lista de atalhos e seus significados, organizados de forma   *
 * tabular. Cada atalho é representado por uma linha na lista, na qual o atalho está alinhado à esquerda *
 * e seu significado está alinhado à direita.                                                            *

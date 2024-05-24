@@ -20,7 +20,16 @@ Até a presente data, 16/05/2024, o repositório contém as seguintes pastas:
   - **Exe003:** Contém o exercício "Ex003 - Ler Dados dos Usuários" resolvido.
   - **Exe004:** Contém o exercício "Ex004 - Listagem Completa e Organizada" resolvido.
   - **Exe005:** Contém o exercício "Ex005 - Números Aleatórios" resolvido.
-- **Módulo 02:** Esta pasta conterá os exercícios que serão realizados futuramente do Módulo 02 - Operadores.
+- **Módulo 02:** Esta pasta contém seis subpastas com os exercícios realizados durante e do Módulo 02 - Operadores.
+  - **Exe006:** Contém o exercício "Ex006 – Antecessor e Sucessor" resolvido.
+  - **Exe007:** Contém o exercício "Ex007 – Dobro e Terça Parte " resolvido.
+  - **Exe008:** Contém o exercício "Ex008 – Alfabeto" resolvido.
+  - **Exe009:** Contém o exercício "Ex009 – Média do aluno " resolvido.
+  - **Exe010:** Contém o exercício "Ex010 – Preço do Produto " resolvido.
+  - **Exe011:** Contém o exercício "Ex011 – Par ou Ímpar " resolvido.
+  - **Exe012:** Contém o exercício "Ex012 – Situação do Aluno" resolvido.
+  - **Exe013:** Contém o exercício "Ex013 – Operadores Bitwase" resolvido.
+  - **Exe014:** Contém o exercício "Ex014 – Operadores de Deslocamento " resolvido.
 - **Módulo 03:** Esta pasta conterá os exercícios que serão realizados futuramente do Módulo 03 - Estruturas de Controle (Condições).
 
 ### Ferramentas

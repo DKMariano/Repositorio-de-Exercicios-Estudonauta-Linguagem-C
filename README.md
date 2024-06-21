@@ -11,7 +11,7 @@ O objetivo deste repositório é servir como um portfólio dos meus conhecimento
 
 ### Conteúdo
 
-Até a presente data, 16/05/2024, o repositório contém as seguintes pastas:
+O repositório contém as seguintes pastas:
 
 - **Módulo 01:** Esta pasta contém seis subpastas com os exercícios realizados durante o Módulo 01 - Estruturas Básicas.
   - **Exe000:** Contém o exercício "Ex000 - Organizando Arquivos" resolvido.
@@ -31,6 +31,22 @@ Até a presente data, 16/05/2024, o repositório contém as seguintes pastas:
   - **Exe013:** Contém o exercício "Ex013 – Operadores Bitwase" resolvido.
   - **Exe014:** Contém o exercício "Ex014 – Operadores de Deslocamento " resolvido.
 - **Módulo 03:** Esta pasta conterá os exercícios que serão realizados futuramente do Módulo 03 - Estruturas de Controle (Condições).
+  - **Exe015:** Contém o exercício "Ex015 – Bons alunos merecem parabéns" resolvido.
+  - **Exe016:** Contém o exercício "Ex016 – Consumidor ganha desconto" resolvido.
+  - **Exe017:** Contém o exercício "Ex017 – Fila de Banco" resolvido.
+  - **Exe018:** Contém o exercício "Ex018 – Serviço Militar v1.0" resolvido.
+  - **Exe019:** Contém o exercício "Ex019 – Ano Bissexto" resolvido.
+  - **Exe020:** Contém o exercício "Ex020 – Preço de Passagem" resolvido.
+  - **Exe021:** Contém o exercício "Ex021 – Inverso ou oposto" resolvido.
+  - **Exe022:** Contém o exercício "Ex022 – Dá para ver o filme" resolvido.
+  - **Exe023:** Contém o exercício "Ex023 – Positivo ou negativo ou nulo" resolvido.
+  - **Exe024:** Contém o exercício "Ex024 – Ordem de dois números" resolvido.
+  - **Exe025:** Contém o exercício "Ex025 – Serviço Militar  versão 2.0" resolvido.
+  - **Exe026:** Contém o exercício "Ex026 – Qual é o Seu Estado" resolvido.
+  - **Exe027:** Contém o exercício "Ex027 – Três valores em ordem " resolvido.
+  - **Exe028:** Contém o exercício "Ex028 – Calculadora v1.0" resolvido.
+  - **Exe029:** Contém o exercício "Ex029 – Seu peso nos Planetas" resolvido.
+  - **Exe030:** Contém o exercício "Ex030 – Preço por Época" resolvido.
 
 ### Ferramentas
 
